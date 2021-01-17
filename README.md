@@ -32,6 +32,8 @@ I’m currently a year 4 student working for Bsc Computer Science degree, you ca
 - Others
   - Redis
   
+--- 
+
 #### My project ideas
 - DNS Server - 
   A DNS Server with backend and frontend. It allows rule-based DNS requests via socks5, http, https proxies.
