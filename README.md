@@ -6,7 +6,12 @@ I’m currently a year 4 student working for Bsc Computer Science degree, you ca
 
 💬 Please ask me about anything, I am happy to help!
 
-📫 How to reach me? [Telegram](https://t.me/breakertt), [LinkedIn](https://www.linkedin.com/in/tianyi-gao-0947a9173/).
+📫 How to reach me? <a href="https://www.linkedin.com/in/tianyi-gao-0947a9173/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>  <a href="https://t.me/breakert"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>  <a href="mailto:breakertt@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a> 
+
+
+
+[Telegram](t), [LinkedIn](https://www.linkedin.com/in/tianyi-gao-0947a9173/).
+
 
 #### The languages I am using
 <img alt="GoLang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
