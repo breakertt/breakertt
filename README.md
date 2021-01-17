@@ -6,8 +6,6 @@ I’m currently a year 4 student working for Bsc Computer Science degree, you ca
 
 💬 Please ask me about anything, I am happy to help!
 
----
-
 #### 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/tianyi-gao-0947a9173/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>  <a href="https://t.me/breakert"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>  <a href="mailto:breakertt@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a> 
