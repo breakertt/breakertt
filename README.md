@@ -12,7 +12,7 @@ I’m currently a year 4 student working for Bsc Computer Science degree, you ca
 <img alt="GoLang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
 
 #### The tools I am using
-<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white" /> <img alt="Vsiual Studio Code" src="https://img.shields.io/badge/-Vsiual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white" /> <img alt="Vsiual Studio Code" src="https://img.shields.io/badge/-Vsiual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 ---
 
