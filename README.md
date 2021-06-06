@@ -2,7 +2,9 @@
 
 <img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true">
 
-I’m currently a year 4 student working for Bsc Computer Science degree, you can call me breakertt or Imagine Breaker.
+I’m currently a year 4 BSc Computer Science student at The University of Nottingham and prospective MSc Computer Science student at The University of Edinburgh.
+
+You can call me breakertt or Imagine Breaker.
 
 💬 Please ask me about anything, I am happy to help!
 
@@ -25,12 +27,17 @@ I’m currently a year 4 student working for Bsc Computer Science degree, you ca
 - DevOps
   - Ansible
   - BGP, OSPF
-  - Grafana
+  - ~~Grafana~~
 - Big Data
-  - Spark
-  - Hadoop
+  - ~~PySpark~~
+  - Hadoop / HDFS
 - Others
   - Redis
+  - ZooKeeper
+- Cloud Native
+  - Kubernetes
+  - Docker Compose
+  - Open Service Mesh
   
 #### 💡 My project ideas
 - DNS Server - 
