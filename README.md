@@ -2,7 +2,7 @@
 
 <img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true">
 
-I’m currently a year 4 BSc Computer Science student at The University of Nottingham and prospective MSc Computer Science student at The University of Edinburgh.
+I’m currently a MSc Computer Science student at The University of Edinburgh.
 
 You can call me breakertt or Imagine Breaker.
 
