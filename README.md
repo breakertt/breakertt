@@ -17,7 +17,7 @@ You can call me breakertt or Imagine Breaker.
 
 #### 🔨 The tools I am using
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Vsiual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
-
+<!-- 
 #### 📚 My to-learn list
 - Java and its family
   - Java Spring
@@ -39,7 +39,7 @@ You can call me breakertt or Imagine Breaker.
 - Others
   - Redis
   - ZooKeeper
- 
+  -->
 #### 💡 My to-do project ideas
 - Proxied DNS Server - A DNS Server with backend and frontend. It allows rule-based DNS requests via socks5, http, https proxies.
 - File Transfer Station - Opensource version of https://airportal.cn/ or https://www.file.io/. 
