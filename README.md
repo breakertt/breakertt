@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to meet you!
 
-<img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true">
+<!-- <img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true"> -->
 
 I’m currently a PhD student at [School of Informtics, The University of Edinburgh](https://www.ed.ac.uk/informatics).
 
