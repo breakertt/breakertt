@@ -1,10 +1,6 @@
 ### Hi there 👋, Nice to meet you!
 
-<img align="right" alt="breakertt's GitHub Stats" width="30%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true&hide_rank=true?count_private=true">
-
-I’m currently a PhD student at [School of Informtics, The University of Edinburgh](https://www.ed.ac.uk/informatics).
-
-You can call me breakertt or Imagine Breaker.
+I’m currently a PhD student interested in Operating Systems and Computer Networks at [School of Informatics, The University of Edinburgh](https://www.ed.ac.uk/informatics).
 
 💬 Please ask me about anything, I am happy to help!
 
